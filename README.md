@@ -10,5 +10,7 @@ Its free to use.
 You can review this code, but here i have a few mistakes.
 But as a good approach with Rxjava and MVP(without Dagger2) you can find out something.
 
+Also i deleted google services file for some safety reason.
+
 Created by Rodion Pushkin a few time ago.
 

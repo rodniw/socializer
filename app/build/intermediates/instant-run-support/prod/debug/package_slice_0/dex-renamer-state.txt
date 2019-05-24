@@ -1,0 +1,4 @@
+#Fri May 24 13:06:44 MSK 2019
+base.0=/Users/rodion/Downloads/social/app/build/intermediates/transforms/dex/prod/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/Users/rodion/Downloads/social/app/build/intermediates/transforms/dex/prod/debug/folders/1000/5/slice_0/classes.dex

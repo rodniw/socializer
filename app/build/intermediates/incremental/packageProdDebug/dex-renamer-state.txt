@@ -1,0 +1,7 @@
+#Fri May 24 13:06:44 MSK 2019
+base.0=/Users/rodion/Downloads/social/app/build/intermediates/transforms/dex/prod/debug/folders/1000/10000/instant-run-bootstrap_1e70262bf936785de47a077a89370929cc0c5845
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/rodion/Downloads/social/app/build/intermediates/transforms/dex/prod/debug/folders/1000/10000/instant-run_e46d3000d572b481761c1c8f3c59389b07b944c6/classes.dex
+base.1=/Users/rodion/Downloads/social/app/build/intermediates/transforms/dex/prod/debug/folders/1000/10000/instant-run_e46d3000d572b481761c1c8f3c59389b07b944c6
+file.0=/Users/rodion/Downloads/social/app/build/intermediates/transforms/dex/prod/debug/folders/1000/10000/instant-run-bootstrap_1e70262bf936785de47a077a89370929cc0c5845/classes.dex

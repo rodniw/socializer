@@ -12,12 +12,12 @@
         "source": "/Users/rodion/.android/build-cache/333dd2256fa8d4f49a9c0d01256f6e42cc95b5b1/output/res/drawable/abc_ic_clear_material.xml"
     },
     {
-        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/rodion/.android/build-cache/333dd2256fa8d4f49a9c0d01256f6e42cc95b5b1/output/res/drawable/abc_btn_check_material.xml"
-    },
-    {
         "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/drawable/abc_seekbar_track_material.xml",
         "source": "/Users/rodion/.android/build-cache/333dd2256fa8d4f49a9c0d01256f6e42cc95b5b1/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/rodion/.android/build-cache/333dd2256fa8d4f49a9c0d01256f6e42cc95b5b1/output/res/drawable/abc_btn_check_material.xml"
     },
     {
         "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/drawable/horizontal_divider_accent.xml",
@@ -28,12 +28,12 @@
         "source": "/Users/rodion/.android/build-cache/333dd2256fa8d4f49a9c0d01256f6e42cc95b5b1/output/res/drawable/abc_vector_test.xml"
     },
     {
-        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/Users/rodion/.android/build-cache/333dd2256fa8d4f49a9c0d01256f6e42cc95b5b1/output/res/drawable/abc_ic_menu_overflow_material.xml"
-    },
-    {
         "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/drawable/abc_ratingbar_material.xml",
         "source": "/Users/rodion/.android/build-cache/333dd2256fa8d4f49a9c0d01256f6e42cc95b5b1/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/rodion/.android/build-cache/333dd2256fa8d4f49a9c0d01256f6e42cc95b5b1/output/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/drawable/abc_btn_radio_material.xml",

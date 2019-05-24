@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/rodion/Downloads/social/app/build/intermediates/incremental-classes/prod/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2ccda1e9b0c8e9aab9a0cc6d8f04be3909a053b6">
+        <dex dex="/Users/rodion/Downloads/social/app/build/intermediates/transforms/dex/prod/debug/folders/1000/10000/instant-run-bootstrap_1e70262bf936785de47a077a89370929cc0c5845/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rodion/Downloads/social/app/build/intermediates/incremental-runtime-classes/prod/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/rodion/Downloads/social/app/build/intermediates/transforms/dex/prod/debug/folders/1000/10000/instant-run_e46d3000d572b481761c1c8f3c59389b07b944c6/classes.dex" />
+    </item>
+
+</items>
