@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Profiler</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="header_welcome">Добро пожаловать в Social</string>
+    <string name="prompt_email">Почта</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="hint_email">email@example.com</string>
+    <string name="hint_password">123456</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="action_register">Зарегистрироваться</string>
+    <string name="header_create">Создать новый аккаунт</string>
+    <string name="prompt_name">Имя</string>
+    <string name="hint_username">Иван Иванов</string>
+    <string name="prompt_create_account">Создать аккаунт</string>
+    <string name="prompt_confirm_password">Подтвердить</string>
+    <string name="user_bio">Обо мне</string>
+    <string name="user_bio_example">Расскажите немного о себе!</string>
+    <string name="user_interests">Интересы</string>
+    <string name="user_interests_example">Чем Вы любите заниматься?</string>
+    <string name="action_logout">Выйти</string>
+    <string name="error_empty_input">Поля не должны быть пустыми</string>
+    <string name="error_invalid_email">Введите почту правильно</string>
+    <string name="error_password_too_long">Пароль слишком длинный</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_enter_password">Введите пароль для подтверждения\:</string>
+    <string name="prompt_confirm">Подтвердить</string>
+    <string name="action_create_account">Создать аккаунт</string>
+    <string name="action_sign_in_short">Войти</string>
+    <string name="error_incorrect_password">Неправильный пароль</string>
+    <string name="error_field_required">Необходимо заполнить поле</string>
+    <string name="permission_rationale">"Необходимо разрешение."
+    </string>
+    <string name="trouble_signing_in">Проблема при входе?</string>
+    <string name="next">Далее</string>
+    <string name="error_auth_failed">Невозможно авторизовать пользователя</string>
+    <string name="error_password_mismatch">Пароль должен совподать</string>
+    <string name="error_create_account_unsuccesful">Не получилось создать аккаунт</string>
+    <string name="action_change_thumbnail">Change Thumbnail</string>
+    <string name="action_edit_profile_details">Править детали</string>
+    <string name="action_log_out">Выйти</string>
+    <string name="action_delete_account">Удалить аккаунт</string>
+
+    <string name="user_email"><b>Email\:</b></string>
+    <string name="user_name"><b>Имя\:</b></string>
+    <string name="user_age"><b>Возраст\:</b></string>
+
+    <string name="error_no_connection">Потерян коннекшн к серверу</string>
+    <string name="error_update_failed">Ошибка обновления данных пользователя</string>
+    <string name="error_permission_denied">Требуется разрешение, чтобы использовать External storage</string>
+    <string name="account_creation_succesful">Аккаунт создан</string>
+    <string name="error_no_data_found">Данных не найдено</string>
+    <string name="error_add_user_profile_failed">Невозможно создать профиль пользователя</string>
+    <string name="error_retrieving_data">Невозомжно загрузить данный.</string>
+    <string name="settings_version_number">Версия 1.0</string>
+    <string name="account_delete_successful">Аккаунт удален</string>
+    <string name="activity_settings">Manage Account</string>
+    <string name="default_bio">Расскажите немного о себе!</string>
+    <string name="default_interests">Чем Вы любите заниматься?</string>
+    <string name="dialog_delete_message">Confirm by entering your Password.</string>
+    <string name="dialog_delete_title">Удалить аккаунт</string>
+    <string name="ok">OK</string>
+    <string name="cancel">ОТМЕНИТЬ</string>
+    <string name="no_data_for_gallery">На устройстве не найдено изображений.</string>
+    <string name="error_loading_image">Невозможно загрузить изображение.</string>
+    <string name="action_cancel">CANCEL</string>
+    <string name="action_proceed">PROCEED</string>
+    <string name="error_authenticating_credentails">Provided password invalid.</string>
+    <string name="prompt_delete_user">Удалить пользователя?</string>
+</resources>
