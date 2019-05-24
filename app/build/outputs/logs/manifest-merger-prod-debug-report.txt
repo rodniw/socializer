@@ -1,0 +1,257 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:5:22-77
+application
+ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:7:5-26:19
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /Users/rodion/.android/build-cache/a2e366da2823e9db06b8ce923b74193cea23d91c/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/rodion/.android/build-cache/4ee3076cca5e0e18bf97cf92cac3483fb94ab6ae/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:10.0.1] /Users/rodion/.android/build-cache/c3fc7eb544e00efd18b27396c24360764d9f7726/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/rodion/.android/build-cache/71ecb2cf3826b4d44526469a747925b4c0ac7ebb/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/rodion/.android/build-cache/4d5185fe65fbdbe43ae10d5bdebf0686339f3117/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/rodion/.android/build-cache/8e194ee67bed86917930063ad226eb5a898cc04b/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/rodion/.android/build-cache/7047eb2dd56183ab3d0142134f63dc5b4901b58f/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:cardview-v7:25.1.0] /Users/rodion/.android/build-cache/ace64eb1fae145cb0fd45e78cb10f21c6179f97d/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:25.1.0] /Users/rodion/.android/build-cache/252d41b501d9477f06cbb0e720a738a352a7fa71/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/rodion/.android/build-cache/333dd2256fa8d4f49a9c0d01256f6e42cc95b5b1/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/rodion/.android/build-cache/fcc595ac563bb924bb2496a858e46292c8136320/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/rodion/.android/build-cache/955e322c15f10af10c326ce2831269482dc8f9b7/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.0] /Users/rodion/.android/build-cache/3e9130dcf3e850210016b146414123289d05269d/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /Users/rodion/.android/build-cache/50f346551a084a367fc0a38220e49fd01f55c0bd/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/rodion/.android/build-cache/a47482ce2dd1e97e91441d479ad74047bb3837d4/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/rodion/.android/build-cache/abae4778fa26edfa8ffdd7635d0dcd9a9f68d94e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/rodion/.android/build-cache/df24d0c3b89dfdc685a4a387ed67f0a1a1025ad2/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/rodion/.android/build-cache/c663e4ce48b3c72db434091d54025a2a3c9529b3/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /Users/rodion/.android/build-cache/5527ddb4e7f6bb71de861d09be5be815cc2f5275/output/AndroidManifest.xml:25:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/rodion/.android/build-cache/9874aee3c1562148ef372df1128ea23651143d00/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:12:9-40
+activity#dev.rodni.social.login.LoginActivity
+ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:13:19-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:17:27-74
+activity#dev.rodni.social.createaccount.CreateAccountActivity
+ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:20:9-89
+	android:name
+		ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:20:19-86
+activity#dev.rodni.social.profilepage.ProfilePageActivity
+ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:21:9-84
+	android:name
+		ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:21:19-82
+activity#dev.rodni.social.photogallery.PhotoGalleryActivity
+ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:22:9-87
+	android:name
+		ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:22:19-84
+activity#dev.rodni.social.photodetail.PhotoDetailActivity
+ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:23:9-85
+	android:name
+		ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:23:19-82
+activity#dev.rodni.social.profiledetail.ProfileDetailActivity
+ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:24:9-89
+	android:name
+		ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:24:19-86
+activity#dev.rodni.social.profilesettings.ProfileSettingsActivity
+ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:25:9-92
+	android:name
+		ADDED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml:25:19-90
+uses-sdk
+INJECTED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /Users/rodion/.android/build-cache/a2e366da2823e9db06b8ce923b74193cea23d91c/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/rodion/.android/build-cache/4ee3076cca5e0e18bf97cf92cac3483fb94ab6ae/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] /Users/rodion/.android/build-cache/58b27a5ddb1de4ed8396821352def360974abce4/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /Users/rodion/.android/build-cache/abc281991d2caa3b3ccd9ed61d7800dbc721364e/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] /Users/rodion/.android/build-cache/c3fc7eb544e00efd18b27396c24360764d9f7726/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/rodion/.android/build-cache/71ecb2cf3826b4d44526469a747925b4c0ac7ebb/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/rodion/.android/build-cache/4d5185fe65fbdbe43ae10d5bdebf0686339f3117/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/rodion/.android/build-cache/8e194ee67bed86917930063ad226eb5a898cc04b/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/rodion/.android/build-cache/7047eb2dd56183ab3d0142134f63dc5b4901b58f/output/AndroidManifest.xml:17:5-42
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/rodion/.android/build-cache/3e6e186173376c38b887bf21e3a3f03ab3c93d4a/output/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:cardview-v7:25.1.0] /Users/rodion/.android/build-cache/ace64eb1fae145cb0fd45e78cb10f21c6179f97d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.1.0] /Users/rodion/.android/build-cache/252d41b501d9477f06cbb0e720a738a352a7fa71/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/rodion/.android/build-cache/333dd2256fa8d4f49a9c0d01256f6e42cc95b5b1/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/rodion/.android/build-cache/fcc595ac563bb924bb2496a858e46292c8136320/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/rodion/.android/build-cache/955e322c15f10af10c326ce2831269482dc8f9b7/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /Users/rodion/.android/build-cache/87117ce8f18b98674144b4cceb59634f23f5bcf0/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.0] /Users/rodion/.android/build-cache/3e9130dcf3e850210016b146414123289d05269d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.0] /Users/rodion/.android/build-cache/50f346551a084a367fc0a38220e49fd01f55c0bd/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/rodion/.android/build-cache/a47482ce2dd1e97e91441d479ad74047bb3837d4/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/rodion/.android/build-cache/abae4778fa26edfa8ffdd7635d0dcd9a9f68d94e/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/rodion/.android/build-cache/df24d0c3b89dfdc685a4a387ed67f0a1a1025ad2/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/rodion/.android/build-cache/c663e4ce48b3c72db434091d54025a2a3c9529b3/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /Users/rodion/.android/build-cache/5527ddb4e7f6bb71de861d09be5be815cc2f5275/output/AndroidManifest.xml:21:5-23:58
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/rodion/.android/build-cache/9874aee3c1562148ef372df1128ea23651143d00/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.0] /Users/rodion/.android/build-cache/252d41b501d9477f06cbb0e720a738a352a7fa71/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rodion/Downloads/social/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/rodion/.android/build-cache/4ee3076cca5e0e18bf97cf92cac3483fb94ab6ae/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/rodion/.android/build-cache/4ee3076cca5e0e18bf97cf92cac3483fb94ab6ae/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/rodion/.android/build-cache/4ee3076cca5e0e18bf97cf92cac3483fb94ab6ae/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/rodion/.android/build-cache/4ee3076cca5e0e18bf97cf92cac3483fb94ab6ae/output/AndroidManifest.xml:19:19-85
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/rodion/.android/build-cache/71ecb2cf3826b4d44526469a747925b4c0ac7ebb/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/rodion/.android/build-cache/71ecb2cf3826b4d44526469a747925b4c0ac7ebb/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/rodion/.android/build-cache/71ecb2cf3826b4d44526469a747925b4c0ac7ebb/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/rodion/.android/build-cache/71ecb2cf3826b4d44526469a747925b4c0ac7ebb/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/rodion/.android/build-cache/71ecb2cf3826b4d44526469a747925b4c0ac7ebb/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/rodion/.android/build-cache/d044151fef299a06ffb57c6094ff7e2ae9577955/output/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/rodion/.android/build-cache/0af5d6baf5a2a195c2eb06245893b23f47577d42/output/AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/rodion/.android/build-cache/4d5185fe65fbdbe43ae10d5bdebf0686339f3117/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/rodion/.android/build-cache/4d5185fe65fbdbe43ae10d5bdebf0686339f3117/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/rodion/.android/build-cache/4d5185fe65fbdbe43ae10d5bdebf0686339f3117/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/rodion/.android/build-cache/4d5185fe65fbdbe43ae10d5bdebf0686339f3117/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/rodion/.android/build-cache/4d5185fe65fbdbe43ae10d5bdebf0686339f3117/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/rodion/.android/build-cache/7047eb2dd56183ab3d0142134f63dc5b4901b58f/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/rodion/.android/build-cache/7047eb2dd56183ab3d0142134f63dc5b4901b58f/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/rodion/.android/build-cache/7047eb2dd56183ab3d0142134f63dc5b4901b58f/output/AndroidManifest.xml:20:20-65

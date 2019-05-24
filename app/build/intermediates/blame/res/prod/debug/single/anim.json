@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/rodion/.android/build-cache/333dd2256fa8d4f49a9c0d01256f6e42cc95b5b1/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/rodion/.android/build-cache/333dd2256fa8d4f49a9c0d01256f6e42cc95b5b1/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/rodion/.android/build-cache/252d41b501d9477f06cbb0e720a738a352a7fa71/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/rodion/.android/build-cache/333dd2256fa8d4f49a9c0d01256f6e42cc95b5b1/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/anim/design_fab_out.xml",
+        "source": "/Users/rodion/.android/build-cache/252d41b501d9477f06cbb0e720a738a352a7fa71/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/anim/abc_fade_in.xml",
+        "source": "/Users/rodion/.android/build-cache/333dd2256fa8d4f49a9c0d01256f6e42cc95b5b1/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/anim/abc_fade_out.xml",
+        "source": "/Users/rodion/.android/build-cache/333dd2256fa8d4f49a9c0d01256f6e42cc95b5b1/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/anim/design_fab_in.xml",
+        "source": "/Users/rodion/.android/build-cache/252d41b501d9477f06cbb0e720a738a352a7fa71/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/rodion/.android/build-cache/333dd2256fa8d4f49a9c0d01256f6e42cc95b5b1/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/rodion/.android/build-cache/333dd2256fa8d4f49a9c0d01256f6e42cc95b5b1/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/rodion/.android/build-cache/333dd2256fa8d4f49a9c0d01256f6e42cc95b5b1/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/rodion/.android/build-cache/333dd2256fa8d4f49a9c0d01256f6e42cc95b5b1/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/rodion/.android/build-cache/252d41b501d9477f06cbb0e720a738a352a7fa71/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/rodion/.android/build-cache/333dd2256fa8d4f49a9c0d01256f6e42cc95b5b1/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    }
+]

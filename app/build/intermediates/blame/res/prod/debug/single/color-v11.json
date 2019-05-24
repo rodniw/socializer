@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/rodion/.android/build-cache/333dd2256fa8d4f49a9c0d01256f6e42cc95b5b1/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/rodion/.android/build-cache/333dd2256fa8d4f49a9c0d01256f6e42cc95b5b1/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

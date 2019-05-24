@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/drawable-hdpi/ic_done_white_24dp.png",
+        "source": "/Users/rodion/Downloads/social/app/src/main/res/drawable-hdpi/ic_done_white_24dp.png"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/drawable-hdpi/ic_delete_white_24dp.png",
+        "source": "/Users/rodion/Downloads/social/app/src/main/res/drawable-hdpi/ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/drawable-hdpi/ic_camera_alt_white_24dp.png",
+        "source": "/Users/rodion/Downloads/social/app/src/main/res/drawable-hdpi/ic_camera_alt_white_24dp.png"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/drawable-hdpi/ic_person_outline_black_24dp.png",
+        "source": "/Users/rodion/Downloads/social/app/src/main/res/drawable-hdpi/ic_person_outline_black_24dp.png"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/drawable-hdpi/ic_star_border_black_24dp.png",
+        "source": "/Users/rodion/Downloads/social/app/src/main/res/drawable-hdpi/ic_star_border_black_24dp.png"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/drawable-hdpi/ic_arrow_back_white_24dp.png",
+        "source": "/Users/rodion/Downloads/social/app/src/main/res/drawable-hdpi/ic_arrow_back_white_24dp.png"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/drawable-hdpi/ic_vpn_key_white_24dp.png",
+        "source": "/Users/rodion/Downloads/social/app/src/main/res/drawable-hdpi/ic_vpn_key_white_24dp.png"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/drawable-hdpi/ic_create_white_24dp.png",
+        "source": "/Users/rodion/Downloads/social/app/src/main/res/drawable-hdpi/ic_create_white_24dp.png"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/drawable-hdpi/ic_settings_white_24dp.png",
+        "source": "/Users/rodion/Downloads/social/app/src/main/res/drawable-hdpi/ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/drawable-hdpi/ic_face_black_48dp.png",
+        "source": "/Users/rodion/Downloads/social/app/src/main/res/drawable-hdpi/ic_face_black_48dp.png"
+    }
+]

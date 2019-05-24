@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/layout-land/fragment_login.xml",
+        "source": "/Users/rodion/Downloads/social/app/src/main/res/layout-land/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/layout-land/fragment_photo_gallery.xml",
+        "source": "/Users/rodion/Downloads/social/app/src/main/res/layout-land/fragment_photo_gallery.xml"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/layout-land/fragment_profile_page.xml",
+        "source": "/Users/rodion/Downloads/social/app/src/main/res/layout-land/fragment_profile_page.xml"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/layout-land/fragment_create_account.xml",
+        "source": "/Users/rodion/Downloads/social/app/src/main/res/layout-land/fragment_create_account.xml"
+    },
+    {
+        "merged": "/Users/rodion/Downloads/social/app/build/intermediates/res/merged/prod/debug/layout-land/fragment_profile_settings.xml",
+        "source": "/Users/rodion/Downloads/social/app/src/main/res/layout-land/fragment_profile_settings.xml"
+    }
+]
