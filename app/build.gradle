@@ -28,9 +28,9 @@ android {
     }
 
     productFlavors {
-        mock {
-            applicationIdSuffix = ".mock"
-        }
+        //mock {
+        //    applicationIdSuffix = ".mock"
+        //}
 
         prod {
             applicationIdSuffix = ".prod"
@@ -38,12 +38,12 @@ android {
     }
 
     //remove mockRelease build variant because we don't need it
-    android.variantFilter { variant ->
-        if (variant.buildType.name.equals('release')
-                && variant.getFlavors().get(0).name.equals('mock')) {
-            variant.setIgnore(true);
-        }
-    }
+    //android.variantFilter { variant ->
+    //    if (variant.buildType.name.equals('release')
+    //            && variant.getFlavors().get(0).name.equals('mock')) {
+    //        variant.setIgnore(true);
+    //    }
+    //}
 
     // Always show the result of every unit test, even if it passes.
     testOptions.unitTests.all {
